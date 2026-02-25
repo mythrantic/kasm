@@ -9,7 +9,7 @@ cd kasm
 docker compose up -d
 ```
 
-then go to http://localhost:9034
+then go to http://localhost:9033 or https://localhost:9034 for https
 
 most the docs are here: https://docs.linuxserver.io/images/docker-kasm/#usage
 
