@@ -3,6 +3,9 @@
 just deploy with docker compose
 
 ```sh
+git clone git@github.com:mythrantic/kasm.git
+cd kasm
+
 docker compose up -d
 ```
 
